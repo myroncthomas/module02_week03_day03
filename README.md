@@ -9,7 +9,7 @@ For this assignment you will make emojis perform an action when a "click" event 
 **Part 1: Fade-Out (Ninja Emoji)**
 1. Make the ninja emoji fade-out when its button is clicked.
     - Assign the "fadeOut" class to the ninja emoji when when its button is clicked
-      - Use the 'document object' to select the element with an id of "ninjaEmoji" and assign it to a variable called "ninjaEmojiHTML"
+      - Use the 'documen
 
       - Assign a string value of "fadeOut" to the "className" property on the ninjaEmojiHTML variable
 
